@@ -30,12 +30,19 @@ and thats it! i hope this was helpful, ive been meaning to make a guide like thi
 **color code cheat sheet:
 
 1: red
+
 2: green
+
 3: yellow
+
 4: light blue
+
 5: lavender
+
 6: cyan
+
 7: white
+
 8: gray
 
 (thanks to [u/TroyDestroys](https://www.reddit.com/user/TroyDestroys/) for the [comment](https://www.reddit.com/r/linux4noobs/comments/ofdyv7/comment/h4d80fj/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) with the cheat sheet)

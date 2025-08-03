@@ -1,8 +1,7 @@
 # customfetch
 a guide on how to change your neofetch distro and ascii
 
-
-
+this guide was made for the portal subreddit, so youll need to replace a couple of things if you dont want a portal themed neofetch. original post [here](https://www.reddit.com/r/Portal/comments/1m3h467/how_to_make_your_neofetch_look_like_youre_running/)
 note: this looks really long, but it doesnt take very much time. i just used a lot of words
 
 OPTIONAL: start by getting a theme off of [neofetch themes](https://github.com/Chick2D/neofetch-themes): youll want to go to ~/.config/neofetch/ and then make a copy of config.conf and paste it wherever you have easy access to, since you may need it if something breaks (probably wont but itll save time if it does). then pick a theme from the github i linked. click the name and then hit the "Download raw file" button that looks like... a download button. then move it to ~/.config/neofetch and rename it "config.conf". run neofetch to make sure it works.
